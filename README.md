@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭  I’m currently working on [TeamCore Solutions](https://www.teamcore.net).
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) .
+- 🌱 I’m currently learning [Go](https://golang.org/) .
 
 
 Some of the stuff I work on: 
