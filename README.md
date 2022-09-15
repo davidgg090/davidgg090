@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 🔭  I’m currently working on [TeamCore Solutions](https://www.teamcore.net).
-- 🌱 I’m currently learning [Go](https://golang.org/) .
 
 
 Some of the stuff I work on: 
 - Python 🐍
+- Node JS
 - Docker 🐳
 - Kubernetes ⚓️
 - iOS Apps 📱
